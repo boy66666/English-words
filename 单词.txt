@@ -1,0 +1,10 @@
+from	来自那个表
+sum	求和
+create	创建
+top	顶部
+order by	排序
+where	条件
+having	条件
+group by	分组
+select	查询
+count	统计个数
